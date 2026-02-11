@@ -21,4 +21,5 @@ npm install
 # start the server
 npm start
 ```
+credits to: https://dorukyum.github.io/FNAF-Web/
 
