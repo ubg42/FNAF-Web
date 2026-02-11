@@ -6,7 +6,7 @@ A web version of the popular horror game [Five Nights at Freddy's](fnafar.com/) 
 <br />
 This repository is a fork of [Wendell Sousa's original project](https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web.git).
 
-Click [here](https://dorukyum.github.io/FNAF-Web) to play.
+Click [here](https://ubg42.github.io/FNAF-Web) to play.
 
 ![Five Nights at Freddy's](FNAF.webp)
 
@@ -21,3 +21,4 @@ npm install
 # start the server
 npm start
 ```
+
